@@ -17,7 +17,9 @@ docker build -t typora-gitbook-chrome .
 	nohup google-chrome-stable --no-sandbox&
 	```
 3. 自定义输入法配置
+```
 nohup fcitx-configtool&
+```
 
 
 
