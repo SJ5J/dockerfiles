@@ -1,2 +1,2 @@
 #!/bin/bash
-fcitx
+nohup fcitx&
